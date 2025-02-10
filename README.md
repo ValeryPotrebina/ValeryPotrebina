@@ -29,7 +29,7 @@
 
 ---
 
-###🌐 Get in touch
+### 🌐 Get in touch
 <p>
   <a href="https://www.instagram.com/valery_potrebina_03?igsh=dHE1cWtqMDJ3bmJt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="valeriia_potrebina" height="30" width="30" /></a>
   <a href="https://t.me/ValeryPotrebina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="valeriia_potrebina" height="30" width="30" /></a>
