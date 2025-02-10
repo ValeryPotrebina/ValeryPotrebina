@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### Education
+### :graduation_cap: Education
 - **Bachelor's Degree:**
   - University: Bauman Moscow State Technical University (BMSTU)
   - Major: Applied Maths & CS
