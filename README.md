@@ -12,16 +12,20 @@
   - University: Bauman Moscow State Technical University (BMSTU)
   - Major: Applied Maths & CS
   - Years: 2021-2025
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graduation-cap.svg" alt="bachelor" height="20" width="20" />
 
-### Programming Languages and Tools
-
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="react" height="20" width="20" style="color: #61DAFB;" /> React
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" height="20" width="20" style="color: #F7DF1E;" /> JavaScript
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" height="20" width="20" style="color: #3178C6;" /> TypeScript
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="java" height="20" width="20" style="color: #5382A1;" /> Java
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" height="20" width="20" style="color: #3776AB;" /> Python
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" alt="golang" height="20" width="20" style="color: #00ADD8;" /> Go (Golang)
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ---
 
