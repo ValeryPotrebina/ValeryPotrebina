@@ -12,7 +12,11 @@
   - University: Bauman Moscow State Technical University (BMSTU)
   - Major: Applied Maths & CS
   - Years: 2021-2025
-
+- **Master's Degree:**
+  -  University: Politecnico di Milano
+  -  Major: HPC
+  -  Years: 2025-2027
+ 
 ### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
